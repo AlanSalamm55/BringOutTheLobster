@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 679fb375bc454b6ea9f3ace66c9aaf18, type: 3}
+  m_Name: AudioClipsRefsSO
+  m_EditorClassIdentifier: 
+  chop:
+  - {fileID: 8300000, guid: e519f586b4ac0904e877dfab85ed729e, type: 3}
+  - {fileID: 8300000, guid: 9c6157275e190604d8136e7e497e941e, type: 3}
+  - {fileID: 8300000, guid: 99c666127ba3b974c99980d14efcf03c, type: 3}
+  deliveryFailed:
+  - {fileID: 8300000, guid: 005ad9519c7db8944ab289e455d052a3, type: 3}
+  - {fileID: 8300000, guid: 096797044d8d3e0498400d780cab8d41, type: 3}
+  deliverySucess:
+  - {fileID: 8300000, guid: 875b076be5c4ccc45b6f033ff4509eee, type: 3}
+  - {fileID: 8300000, guid: 0276495196dcef143b2f733a91b5b082, type: 3}
+  - {fileID: 8300000, guid: 5888891c52576be4fa49968f319b2954, type: 3}
+  - {fileID: 8300000, guid: c92f8a8053fa5c44b8f4bab12a4171e7, type: 3}
+  - {fileID: 8300000, guid: d23e2064203e9534aa32f0099f451238, type: 3}
+  - {fileID: 8300000, guid: 4fc07848026de6b4c81b288ef1df8059, type: 3}
+  - {fileID: 8300000, guid: 2e35de91f2d7b294582b6fa4ab3a5b72, type: 3}
+  - {fileID: 8300000, guid: 731d77f9fe667a5479a5eada51a6eaeb, type: 3}
+  footSteps:
+  - {fileID: 8300000, guid: 078e15982fce2e147bf06c8a7682f28b, type: 3}
+  - {fileID: 8300000, guid: b2d2893ac04fbdb44a226f4b6ea0d271, type: 3}
+  - {fileID: 8300000, guid: cc97c340134faa948bcaf20fea6429c6, type: 3}
+  - {fileID: 8300000, guid: 64a04bb4fa4ed5d4eac6b0a31f91843a, type: 3}
+  objectDrop:
+  - {fileID: 8300000, guid: 9c88983fa5906dc41944ec5a43b6b5c7, type: 3}
+  - {fileID: 8300000, guid: 331b82ab2c0e2b74d805124d11372c85, type: 3}
+  - {fileID: 8300000, guid: 961379cce253f794abff0d24df806b68, type: 3}
+  - {fileID: 8300000, guid: 2e35de91f2d7b294582b6fa4ab3a5b72, type: 3}
+  - {fileID: 8300000, guid: c92f8a8053fa5c44b8f4bab12a4171e7, type: 3}
+  objectPickup:
+  - {fileID: 8300000, guid: 32d29abc86751884081d2005f9ff2676, type: 3}
+  - {fileID: 8300000, guid: 668de61a04ca5914aa745f8712c62720, type: 3}
+  - {fileID: 8300000, guid: 6728bf8b07482414e99ba965fdd022d8, type: 3}
+  - {fileID: 8300000, guid: 2e35de91f2d7b294582b6fa4ab3a5b72, type: 3}
+  - {fileID: 8300000, guid: 2e35de91f2d7b294582b6fa4ab3a5b72, type: 3}
+  stoveSizzle: {fileID: 8300000, guid: 511c1cbfb8b48b64083aec78fe17115f, type: 3}
+  trash:
+  - {fileID: 8300000, guid: 4fc07848026de6b4c81b288ef1df8059, type: 3}
+  - {fileID: 8300000, guid: 096797044d8d3e0498400d780cab8d41, type: 3}
+  - {fileID: 8300000, guid: 005ad9519c7db8944ab289e455d052a3, type: 3}
+  warning:
+  - {fileID: 8300000, guid: b90d8099bdbf09a40ab1163556d5b5f4, type: 3}
+  - {fileID: 8300000, guid: b59c98e0066c41f42b8100f5cb180f5b, type: 3}

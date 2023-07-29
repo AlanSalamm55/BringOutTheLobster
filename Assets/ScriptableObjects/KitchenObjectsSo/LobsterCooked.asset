@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6647fd7d1227094fafa312f6d471b75, type: 3}
+  m_Name: LobsterCooked
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 304569785151708927, guid: e4a7404c8b1d0a241bb9f8707622a768, type: 3}
+  sprite: {fileID: 21300000, guid: 9b54765876dded742bd0a1598c95d51a, type: 3}
+  objectName: LobsterCooked
